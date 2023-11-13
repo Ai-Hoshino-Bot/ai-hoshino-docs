@@ -79,7 +79,7 @@ Cách sử dụng: `ah!` + `<lệnh> hoặc sử dụng {/} (chủ yếu là s�
 **Stable Diffusion**
 - `/pixai create artwork`
 
-<https://github.com/Ai-Hoshino-Bot/ai-hoshino-docs/assets/111686710/668482a7-de6e-40b0-98a2-db96f29fc5dc>
+<https://github.com/Ai-Hoshino-Bot/ai-hoshino-docs/assets/111686710/9dffa00d-8c34-4559-a67c-04cc3a306a3e>
 
 **AnimatedDiff GIF**
 <div></div>
@@ -87,12 +87,14 @@ Cách sử dụng: `ah!` + `<lệnh> hoặc sử dụng {/} (chủ yếu là s�
 
 ***Demo***
 
-<https://github.com/Ai-Hoshino-Bot/ai-hoshino-docs/assets/111686710/09916875-334f-4a72-ad92-69b8e1879ab8>
+<https://github.com/Ai-Hoshino-Bot/ai-hoshino-docs/assets/111686710/16b2a5a2-3934-4cc0-a9d9-84f94bba1894>
+
 
 **AnimatedDiff Video**
 ***Demo***
 
-<https://github.com/Ai-Hoshino-Bot/ai-hoshino-docs/assets/111686710/f4c6bcd7-ac0c-4182-88f4-e96e851a6e13>
+<https://github.com/Ai-Hoshino-Bot/ai-hoshino-docs/assets/111686710/3eb16871-9dcd-44b0-83f3-c09171749aaf>
+
 
 ## Hỗ trợ
 Nếu bạn gặp bất kỳ vấn đề nào hoặc có câu hỏi, đừng ngần ngại liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng giúp đỡ!
