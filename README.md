@@ -1,26 +1,26 @@
 # Discord Bot Ai Hoshino
 
 ## Mô tả
-Ai Hoshino là một bot đa năng, được viết bằng ngôn ngữ Java/Kotlin. Bot này có thể thực hiện nhiều chức năng khác nhau, từ việc truy cập dữ liệu từ Anilist, tạo và quản lý thẻ, đến việc cung cấp giải trí và thông tin
+Ai Hoshino là một bot đa năng, được viết bằng ngôn ngữ Java/Kotlin. Bot này có thể thực hiện nhiều chức năng khác nhau, từ việc truy cập dữ liệu từ Anilist, tạo và quản lý thẻ, đến việc cung cấp giải trí và thông tin </br>
 Bạn có thể trải nghiệm [tại đây](https://discord.com/api/oauth2/authorize?client_id=1110045503548313610&permissions=277028600320&scope=bot%20applications.commands)
 
 ## Danh sách lệnh
 Cách sử dụng: `ah!` + `<lệnh> hoặc sử dụng {/} (chủ yếu là sử dụng {/})`
 
 ### Anilist
-- `/anime` - `/manga` - `/character` - `/find` - `/link` - `/unlink` - `/notification airing-anime remove` - `/notification airing-anime add` - `/notification bind` - `/notification clear` - `/ranking` - `/staff` - `/user`
+- `/anime`, `/manga`, `/character`, `/find`, `/link`, `/unlink`, `/notification airing-anime remove`, `/notification airing-anime add`, `/notification bind`, `/notification clear`, `/ranking`, `/staff`, `/user`
 
 ### Card
-- `/spawnpack` - `/claim` - `/mycards` - `/topeyestars` - `/shop` - `/buy` - `/setbio` - `/leaderboard` - `/profile` - `/transfer`
+- `/spawnpack`, `/claim`, `/mycards`, `/topeyestars`, `/shop`, `/buy`, `/setbio`, `/leaderboard`, `/profile`, `/transfer`
 
 ### Entertainment
-- `/animal` - `/kiss` - `/cuddle` - `/feed` - `/hug` - `/neko` - `/pat` - `/slap` - `/smug` - `/tickle` - `/wallpaper` - `/waifu` - `/waifu18` - `/meme` - `/reddit` - `/ship` - `/pixiv` - `/radio` - `/playing` - `/disconnecting`
+- `/animal`, `/kiss`, `/cuddle`, `/feed`, `/hug`, `/neko`, `/pat`, `/slap`, `/smug`, `/tickle`, `/wallpaper`, `/waifu`, `/waifu18`, `/meme`, `/reddit`, `/ship`, `/pixiv`, `/radio`, `/playing`, `/disconnecting`
 
 ### Information
-- `/about` - `/iloveu` - `/avatar` - `/help` - `/serverinfo` - `/userinfo` - `/timnguon` - `/sauce` - `/nyan`
+- `/about`, `/iloveu`, `/avatar`, `/help`, `/serverinfo`, `/userinfo`, `/timnguon`, `/sauce`, `/nyan`
 
 ### Ai SD
-- `/pixai create artwork` - `/pixai get artwork` - `/pixai get artworkid` - `/pixai get taskofartwork` - `/imagine` - `/aihoshino art`
+- `/pixai create artwork`, `/pixai get artwork`, `/pixai get artworkid`, `/pixai get taskofartwork`, `/imagine`, `/aihoshino art`
 
 
 ### Demo
