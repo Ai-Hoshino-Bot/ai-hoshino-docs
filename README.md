@@ -1,79 +1,27 @@
 # Discord Bot Ai Hoshino
 
 ## Mô tả
-Discord Bot là một công cụ hữu ích, giúp tăng cường trải nghiệm của người dùng trên Discord. Dưới đây là danh sách các lệnh mà bot hỗ trợ:
+Ai Hoshino là một bot đa năng, được viết bằng ngôn ngữ Java/Kotlin. Bot này có thể thực hiện nhiều chức năng khác nhau, từ việc truy cập dữ liệu từ Anilist, tạo và quản lý thẻ, đến việc cung cấp giải trí và thông tin
 Bạn có thể trải nghiệm [tại đây](https://discord.com/api/oauth2/authorize?client_id=1110045503548313610&permissions=277028600320&scope=bot%20applications.commands)
 
 ## Danh sách lệnh
 Cách sử dụng: `ah!` + `<lệnh> hoặc sử dụng {/} (chủ yếu là sử dụng {/})`
 
 ### Anilist
-- `/anime`
-- `/manga`
-- `/character`
-- `/find`
-- `/link`
-- `/unlink`
-- `/notification airing-anime remove`
-- `/notification airing-anime add`
-- `/notification bind`
-- `/notification clear`
-- `/ranking`
-- `/staff`
-- `/user`
+- `/anime` - `/manga` - `/character` - `/find` - `/link` - `/unlink` - `/notification airing-anime remove` - `/notification airing-anime add` - `/notification bind` - `/notification clear` - `/ranking` - `/staff` - `/user`
 
 ### Card
-- `/spawnpack`
-- `/claim`
-- `/mycards`
-- `/topeyestars`
-- `/shop`
-- `/buy`
-- `/setbio`
-- `/leaderboard`
-- `/profile`
-- `/transfer`
+- `/spawnpack` - `/claim` - `/mycards` - `/topeyestars` - `/shop` - `/buy` - `/setbio` - `/leaderboard` - `/profile` - `/transfer`
 
 ### Entertainment
-- `/animal`
-- `/kiss`
-- `/cuddle`
-- `/feed`
-- `/hug`
-- `/neko`
-- `/pat`
-- `/slap`
-- `/smug`
-- `/tickle`
-- `/wallpaper`
-- `/waifu`
-- `/waifu18`
-- `/meme`
-- `/reddit`
-- `/ship`
-- `/pixiv`
-- `/radio`
-- `/playing`
-- `/disconnecting`
+- `/animal` - `/kiss` - `/cuddle` - `/feed` - `/hug` - `/neko` - `/pat` - `/slap` - `/smug` - `/tickle` - `/wallpaper` - `/waifu` - `/waifu18` - `/meme` - `/reddit` - `/ship` - `/pixiv` - `/radio` - `/playing` - `/disconnecting`
 
 ### Information
-- `/about`
-- `/iloveu`
-- `/avatar`
-- `/help`
-- `/serverinfo`
-- `/userinfo`
-- `/timnguon`
-- `/sauce`
-- `/nyan`
+- `/about` - `/iloveu` - `/avatar` - `/help` - `/serverinfo` - `/userinfo` - `/timnguon` - `/sauce` - `/nyan`
 
 ### Ai SD
-- `/pixai create artwork`
-- `/pixai get artwork`
-- `/pixai get artworkid`
-- `/pixai get taskofartwork`
-- `/imagine`
-- `/aihoshino art`
+- `/pixai create artwork` - `/pixai get artwork` - `/pixai get artworkid` - `/pixai get taskofartwork` - `/imagine` - `/aihoshino art`
+
 
 ### Demo
 **Stable Diffusion**
@@ -94,6 +42,17 @@ Cách sử dụng: `ah!` + `<lệnh> hoặc sử dụng {/} (chủ yếu là s�
 ***Demo***
 
 <https://github.com/Ai-Hoshino-Bot/ai-hoshino-docs/assets/111686710/3eb16871-9dcd-44b0-83f3-c09171749aaf>
+
+
+**Music**
+
+<https://github.com/Ai-Hoshino-Bot/ai-hoshino-docs/assets/111686710/6d913c71-921e-4069-a8b3-896b88207a71>
+
+
+**Profile**
+
+
+<https://github.com/Ai-Hoshino-Bot/ai-hoshino-docs/assets/111686710/11d50fc1-01b8-41cf-9260-c959109ed86d>
 
 
 ## Hỗ trợ
