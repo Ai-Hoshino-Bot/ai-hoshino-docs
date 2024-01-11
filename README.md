@@ -20,7 +20,7 @@ Cách sử dụng: `ah!` + `<lệnh> hoặc sử dụng {/} (chủ yếu là s�
 - `/about`, `/iloveu`, `/avatar`, `/help`, `/serverinfo`, `/userinfo`, `/timnguon`, `/sauce`, `/nyan`
 
 ### Ai SD
-- `/pixai create artwork`, `/pixai get artwork`, `/pixai get artworkid`, `/pixai get taskofartwork`, `/imagine`, `/aihoshino art`
+- `/pixai create artwork`, `/pixai get artwork`, `/pixai get artworkid`, `/pixai get taskofartwork`, `/imagine`, `/aihoshino art`,`/aihoshino chat`,`/aihoshino img2text`
 
 
 ### Demo
