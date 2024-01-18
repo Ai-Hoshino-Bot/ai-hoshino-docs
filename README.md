@@ -20,10 +20,15 @@ Cách sử dụng: `ah!` + `<lệnh> hoặc sử dụng {/} (chủ yếu là s�
 - `/about`, `/iloveu`, `/avatar`, `/help`, `/serverinfo`, `/userinfo`, `/timnguon`, `/sauce`, `/nyan`
 
 ### Ai SD
-- `/pixai create artwork`, `/pixai get artwork`, `/pixai get artworkid`, `/pixai get taskofartwork`, `/imagine`, `/aihoshino art`,`/aihoshino chat`,`/aihoshino img2text`
+- `/pixai create artwork`, `/pixai get artwork`, `/pixai get artworkid`, `/pixai get taskofartwork`, `/imagine`, `/aihoshino art`,`/aihoshino chat`,`/aihoshino img2text`,`/tensor`
 
 
 ### Demo
+**Tensor**
+
+<https://github.com/Ai-Hoshino-Bot/ai-hoshino-docs/assets/111686710/5ac8f7c8-fb33-44ac-97e6-19af0a11c878>
+
+
 **Stable Diffusion**
 - `/pixai create artwork`
 
@@ -53,6 +58,11 @@ Cách sử dụng: `ah!` + `<lệnh> hoặc sử dụng {/} (chủ yếu là s�
 
 
 <https://github.com/Ai-Hoshino-Bot/ai-hoshino-docs/assets/111686710/11d50fc1-01b8-41cf-9260-c959109ed86d>
+
+
+**Card**
+
+<https://github.com/Ai-Hoshino-Bot/ai-hoshino-docs/assets/111686710/38a67e52-b1c7-4b72-9fad-d97c41fa9495>
 
 
 ## Hỗ trợ
