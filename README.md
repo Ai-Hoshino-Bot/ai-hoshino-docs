@@ -26,7 +26,7 @@ Cách sử dụng: `ah!` + `<lệnh> hoặc sử dụng {/} (chủ yếu là s�
 ### Demo
 **Tensor**
 
-<https://github.com/Ai-Hoshino-Bot/ai-hoshino-docs/assets/111686710/5ac8f7c8-fb33-44ac-97e6-19af0a11c878>
+<https://github.com/Ai-Hoshino-Bot/ai-hoshino-docs/assets/111686710/45b99814-cf94-4ffd-a65d-767e7c01184d>
 
 
 **Stable Diffusion**
