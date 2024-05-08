@@ -7,21 +7,28 @@ Bạn có thể trải nghiệm [tại đây](https://discord.com/api/oauth2/aut
 ## Danh sách lệnh
 Cách sử dụng: `ah!` + `<lệnh> hoặc sử dụng {/} (chủ yếu là sử dụng {/})`
 
-### Anilist
-- `/anime`, `/manga`, `/character`, `/find`, `/link`, `/unlink`, `/notification airing-anime remove`, `/notification airing-anime add`, `/notification bind`, `/notification clear`, `/ranking`, `/staff`, `/user`
-
-### Card
-- `/spawnpack`, `/claim`, `/mycards`, `/topeyestars`, `/shop`, `/buy`, `/setbio`, `/leaderboard`, `/profile`, `/transfer`
-
-### Entertainment
-- `/animal`, `/kiss`, `/cuddle`, `/feed`, `/hug`, `/neko`, `/pat`, `/slap`, `/smug`, `/tickle`, `/wallpaper`, `/waifu`, `/waifu18`, `/meme`, `/reddit`, `/ship`, `/pixiv`, `/radio`, `/playing`, `/disconnecting`
-
-### Information
-- `/about`, `/iloveu`, `/avatar`, `/help`, `/serverinfo`, `/userinfo`, `/timnguon`, `/sauce`, `/nyan`
-
-### Ai SD
-- `/pixai create artwork`, `/pixai get artwork`, `/pixai get artworkid`, `/pixai get taskofartwork`, `/imagine`, `/aihoshino art`,`/aihoshino chat`,`/aihoshino img2text`,`/tensor`
-
+| Anilist | Card | Entertainment | Information | Ai SD |
+|---------|------|---------------|-------------|-------|
+| /anime | /spawnpack | /animal | /about | /pixai create artwork |
+| /manga | /claim | /kiss | /iloveu | /pixai get artwork |
+| /character | /mycards | /cuddle | /avatar | /pixai get artworkid |
+| /find | /topeyestars | /feed | /help | /pixai get taskofartwork |
+| /link | /shop | /hug | /serverinfo | /imagine |
+| /unlink | /buy | /neko | /userinfo | /aihoshino art |
+| /notification airing-anime remove | /setbio | /pat | /timnguon | /aihoshino chat |
+| /notification airing-anime add | /leaderboard | /slap | /sauce | /aihoshino img2text |
+| /notification bind | /profile | /smug | /nyan | /tensor |
+| /notification clear | /transfer | /tickle | | |
+| /ranking | | /wallpaper | | |
+| /staff | | /waifu | | |
+| /user | | /waifu18 | | |
+| | | /meme | | |
+| | | /reddit | | |
+| | | /ship | | |
+| | | /pixiv | | |
+| | | /radio | | |
+| | | /playing | | |
+| | | /disconnecting | | |
 
 ### Demo
 **Tensor**
