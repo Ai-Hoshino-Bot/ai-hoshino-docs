@@ -1,5 +1,13 @@
 # Discord Bot Ai Hoshino
 
+## Mục lục
+- [Mô tả](#mô-tả)
+- [Danh sách lệnh](#danh-sách-lệnh)
+- [Demo](#demo)
+- [Hỗ trợ](#hỗ-trợ)
+- [Thư viện sử dụng](#thư-viện-sử-dụng)
+
+
 ## Mô tả
 Ai Hoshino là một bot đa năng, được viết bằng ngôn ngữ Java/Kotlin. Bot này có thể thực hiện nhiều chức năng khác nhau, từ việc truy cập dữ liệu từ Anilist, tạo và quản lý thẻ, đến việc cung cấp giải trí và thông tin </br>
 Bạn có thể trải nghiệm [tại đây](https://discord.com/api/oauth2/authorize?client_id=1110045503548313610&permissions=277028600320&scope=bot%20applications.commands)
@@ -72,6 +80,43 @@ Cách sử dụng: `ah!` + `<lệnh> hoặc sử dụng {/} (chủ yếu là s�
 
 <https://github.com/Ai-Hoshino-Bot/ai-hoshino-docs/assets/111686710/38a67e52-b1c7-4b72-9fad-d97c41fa9495>
 
+## Thư viện sử dụng
+- [kotlin-stdlib](https://mvnrepository.com/artifact/org.jetbrains.kotlin/kotlin-stdlib)
+- [kotlin-reflect](https://mvnrepository.com/artifact/org.jetbrains.kotlin/kotlin-reflect)
+- [kord-core](https://mvnrepository.com/artifact/dev.kord/kord-core)
+- [kord-voice](https://mvnrepository.com/artifact/dev.kord/kord-voice)
+- [kord-core-voice](https://mvnrepository.com/artifact/dev.kord/kord-core-voice)
+- [kord-extensions-core](https://mvnrepository.com/artifact/com.kotlindiscord.kord.extensions/kord-extensions)
+- [kord-extensions-unsafe](https://mvnrepository.com/artifact/com.kotlindiscord.kord.extensions/unsafe)
+- [Ktor](https://mvnrepository.com/artifact/io.ktor/ktor-server-core-jvm)
+- [saucenaoapi](https://mvnrepository.com/artifact/dev.inmo/saucenaoapi)
+- [dotenv-kotlin](https://mvnrepository.com/artifact/io.github.cdimascio/dotenv-kotlin)
+- [lavakord](https://mvnrepository.com/artifact/dev.schlaubi.lavakord/kord)
+- [lavakord-sponsorblock](https://mvnrepository.com/artifact/dev.schlaubi.lavakord/sponsorblock)
+- [lavakord-lavasrc](https://mvnrepository.com/artifact/dev.schlaubi.lavakord/lavasrc)
+- [lavakord-lavasearch](https://mvnrepository.com/artifact/dev.schlaubi.lavakord/lavasearch)
+- [lavakord-lyrics](https://mvnrepository.com/artifact/dev.schlaubi.lavakord/lyrics)
+- [emoji](https://mvnrepository.com/artifact/dev.kord.x/emoji)
+- [json](https://mvnrepository.com/artifact/org.json/json)
+- [logback-classic](https://mvnrepository.com/artifact/ch.qos.logback/logback-classic)
+- [kmongo](https://mvnrepository.com/artifact/org.litote.kmongo/kmongo-coroutine-serialization)
+- [ktorm](https://mvnrepository.com/artifact/org.ktorm/ktorm-core)
+- [ktorm-support-mysql](https://mvnrepository.com/artifact/org.ktorm/ktorm-support-mysql)
+- [copy-down](https://mvnrepository.com/artifact/io.github.furstenheim/copy_down)
+- [krontab](https://mvnrepository.com/artifact/dev.inmo/krontab)
+- [hikari](https://mvnrepository.com/artifact/com.zaxxer/HikariCP)
+- [mysql](https://mvnrepository.com/artifact/com.mysql/mysql-connector-j)
+- [gif-animated](https://mvnrepository.com/artifact/com.madgag/animated-gif-lib)
+- [fuel](https://mvnrepository.com/artifact/com.github.kittinunf.fuel/fuel)
+- [lavaplayer-fork](https://mvnrepository.com/artifact/dev.arbjerg/lavaplayer)
+- [kotlin-test-junit5](https://mvnrepository.com/artifact/org.jetbrains.kotlin/kotlin-test-junit5)
+- [junit-jupiter-engine](https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-engine)
+- [kotlinx-coroutines-core](https://mvnrepository.com/artifact/org.jetbrains.kotlinx/kotlinx-coroutines-core)
+- [guava](https://mvnrepository.com/artifact/com.google.guava/guava)
+- [imageio-webp](https://mvnrepository.com/artifact/com.twelvemonkeys.imageio/imageio-webp)
+- [kotlinx-serialization-json](https://mvnrepository.com/artifact/org.jetbrains.kotlinx/kotlinx-serialization-json)
+- [jfiglet](https://mvnrepository.com/artifact/com.github.lalyos/jfiglet)
+- [selenium-chrome-driver](https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-chrome-driver)
 
 ## Hỗ trợ
 Nếu bạn gặp bất kỳ vấn đề nào hoặc có câu hỏi, đừng ngần ngại liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng giúp đỡ!
